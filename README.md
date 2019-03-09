@@ -11,4 +11,6 @@ Para aquell@s que empiezan en esto, les dejo unos scripts muy sencillos de cuatr
 * Newton
 * Secante
 
+También he incluído un problema de iteración de función valor muy básico. 
+
 Las ejemplos son los mismos empleadas en el libro [Introduction to Computational Economics Using Fortran](https://global.oup.com/academic/product/introduction-to-computational-economics-using-fortran-9780198804406?cc=es&lang=en&)
